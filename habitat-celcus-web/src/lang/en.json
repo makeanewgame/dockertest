@@ -1,0 +1,10 @@
+{
+    "nav.signIn": "Login",
+    "nav.signUp": "Register",
+    "nav.memberships": "MEMBERSHIPS",
+    "nav.privileges": "PRIVILEGES",
+    "nav.events": "EVENTS",
+    "nav.locations": "LOCATIONS",
+    "nav.contact": "CONTACT",
+    "page.login.title": "User login"
+}

@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.mobile-menu-off{
+    width: 0;
+    transition: width 0.4s;;
+  }
+
+  .mobile-menu-on{
+    width: 300px;
+    transition: width 0.4s;
+  }

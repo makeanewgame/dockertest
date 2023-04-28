@@ -1,0 +1,50 @@
+.base{
+    @apply
+    px-10
+    py-2
+    font-primary
+    rounded-md
+    transition
+    ease-out
+    duration-300
+    disabled:opacity-50
+}
+
+.default {
+    @apply
+    text-primary-500
+    hover:ease-in
+    hover:no-underline
+    p-0
+
+}
+
+.line{
+    @apply
+    border-primary-500
+    border
+    bg-none
+    text-primary-500
+    hover:bg-primary-700
+    hover:text-white
+    hover:ease-in
+    hover:no-underline
+
+}
+
+.primary{
+    @apply
+    text-white
+    bg-primary-500
+    hover:bg-primary-800
+    hover:ease-in
+    hover:no-underline
+}
+
+.language{
+    @apply
+    p-0
+    text-gray-400
+    hover:no-underline
+
+}

@@ -1,0 +1,21 @@
+.base{
+    @apply
+    font-primary
+    transition
+    ease-out
+    duration-300
+    disabled:opacity-50
+    text-gray-600
+    hover:text-primary-500
+}
+
+.basic{
+    @apply
+    text-gray-400
+}
+
+.light{
+    @apply
+    text-white
+    text-center
+}
